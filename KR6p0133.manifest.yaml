@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6p0133/v1
+canonical_location: https://kanripo.org/bkk/KR6p0133/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 普能嵩禪師淨土詩
+  identifiers:
+    alt_id:
+    - X62n1215
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1215.xml
+    old_id: X62n1215
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0133_000.yaml, hash: 'sha256:57cb6eac78027993cdb9019886200e493256860ae55fbfc09fa1f567134777f9'}
+  - {seq: 1, filename: KR6p0133_001.yaml, hash: 'sha256:13a489098c29abfcef85aa9881735cac229175a57bc4243d88b123e570632a67'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6p0133_001.markers.yaml, hash: 'sha256:7754f3dc0e91635042a40c9664c0aacdeaa4c47411712b77d0f3aef59f86766f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0133_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6440
+  label: 毗陵天寧普能嵩禪師淨土詩
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0133_X_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 毗陵天寧普能嵩禪師淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0133_X_001-mulu-2
+    span:
+    - body
+    - 6019
+    - 6019
+  label: No. 1215-A
+  type: mulu
+  level: 1
+hash: sha256:1435ed8fea0afc33f255f861e3c20c69194a55df102149a0bb96c9d9b0ea42ea
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

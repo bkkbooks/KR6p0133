@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0133/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普能嵩禪師淨土詩
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1215.xml
+    old_id: X62n1215
+hash: sha256:57cb6eac78027993cdb9019886200e493256860ae55fbfc09fa1f567134777f9
