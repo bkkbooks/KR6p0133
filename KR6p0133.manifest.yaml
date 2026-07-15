@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0133/v1
 canonical_location: https://kanripo.org/bkk/KR6p0133/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 普能嵩禪師淨土詩
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0133_000.yaml, hash: 'sha256:57cb6eac78027993cdb9019886200e493256860ae55fbfc09fa1f567134777f9'}
-  - {seq: 1, filename: KR6p0133_001.yaml, hash: 'sha256:48d46d2b04e345660c9e82014a96de818d18bcb7d5becc1dc9784af64a5f89c9'}
+  - {seq: 1, filename: KR6p0133_001.yaml, hash: 'sha256:253497c2fc0659ce30234f3e13b516ac5f791f14c518297c238607d60fa737f0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0133_000.markers.yaml, hash: 'sha256:a5b5499060920e6e62472ecf7895c02f509fa276387514419b462c1c329eb620'}
-  - {seq: 1, role: markers, filename: assets/KR6p0133_001.markers.yaml, hash: 'sha256:e58e61cdbb5f314468da35e7f5828d121f79e0f2b68b334a647b745e5c170069'}
+  - {seq: 1, role: markers, filename: assets/KR6p0133_001.markers.yaml, hash: 'sha256:749cb496569d04e499dac0ec4bc5519bdce463aeadf2c0708c749de0a37db8d9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -57,4 +57,7 @@ table_of_contents:
   label: No. 1215-A
   type: mulu
   level: 1
-hash: sha256:096b8551cf976275d5a9e5f1bef632670f8d04884df0ef70026467578a28e46a
+hash: sha256:56bcf4566cd81c82c232d75a1b7d7e9acadca9f1574034fd16b8995fda8afc18
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
